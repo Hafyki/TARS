@@ -1,3 +1,8 @@
+### ⚙️ SMS - Spaceship Monitoring System
+
+Este sistema tem como objetivo monitorar e processar dados críticos essenciais para o funcionamento adequado de veículos espaciais. Entre as informações coletadas estão dados de sensores de aceleração, temperatura interna e externa, pressão, entre outros parâmetros vitais. <br>
+A integridade e a rapidez no processamento dos dados são fatores fundamentais. Para garantir esses requisitos, o sistema utiliza mecanismos de mensageria que asseguram a confiabilidade da comunicação, além de empregar linguagens de programação de alto desempenho, como C e C#, que proporcionam maior eficiência no processamento das informações.
+
 ### 📌 Integrantes do Grupo TARS
 
 * Hafy Mourad Jacoub de Cuba Kouzak
@@ -6,7 +11,6 @@
 * João Victor de Paiva Albuquerque
 * Maria Eduarda de Campos Ramos
 
-### ⚙️ [Projeto Final] Spaceship Monitoring System
 
 Para rodar o projeto final, acesse a pasta raíz dele e execute o seguinte comando:
 ```
